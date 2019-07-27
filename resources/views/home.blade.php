@@ -7,7 +7,7 @@
             <img src="https://z-p42-instagram.fisb3-1.fna.fbcdn.net/vp/b2bccbdfad9a37b5d828e03d1118c429/5DB47138/t51.2885-19/s150x150/22709172_932712323559405_7810049005848625152_n.jpg?_nc_ad=z-m&_nc_ht=z-p42-instagram.fisb3-1.fna.fbcdn.net" class="rounded-circle" alt="">
         </div>
         <div class="col-9 pt-5">
-            <div><h1>freeCodeCamp</h1></div>
+            <div><h1>{{ $user->username }}</h1></div>
             <div class="d-flex">
                 <div class="pr-5"><strong>153</strong> posts</div>
                 <div class="pr-5"><strong>23k</strong> followers</div>
